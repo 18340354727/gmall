@@ -2,6 +2,9 @@
 谷粒商城
 manage-service 8070
 manage-web     8080
-老王上传了一些代码
 
-abcde
+user-web       8081
+user-service   8071
+
+item-service   8072
+item-web       8082
